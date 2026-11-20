@@ -27,8 +27,8 @@ const themeLabel = themeToggle.querySelector(".theme-label");
 
 function applyTheme(isDark) {
   document.body.classList.toggle("dark-mode", isDark);
-  themeToggle.setAttribute("aria-pressed", String(isDark));
-  themeToggle.setAttribute("aria-label", isDark ? "تفعيل الوضع النهاري" : "تفعيل الوضع الليلي");
+  themeToggle.setAttribute("aria-checked", String(isDark));
+  themeToggle.setAttribute("aria-label", isDark ? "الوضع الليلي مفعّل، اضغطي لإيقافه" : "الوضع الليلي متوقف، اضغطي لتفعيله");
   themeToggle.title = isDark ? "الوضع النهاري" : "الوضع الليلي";
   themeIcon.textContent = isDark ? "☀" : "☾";
   themeLabel.textContent = isDark ? "نهاري" : "ليلي";
