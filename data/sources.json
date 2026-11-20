@@ -1,0 +1,16 @@
+{
+  "project": "LinguaPop",
+  "data_policy": {
+    "current_sample": "The initial A1 entries are original educational content written for LinguaPop. They are not copied from an external dictionary.",
+    "future_sources": [
+      {
+        "name": "Wiktionary",
+        "access_route": "Kaikki.org machine-readable Wiktionary data",
+        "website": "https://kaikki.org/",
+        "license_note": "Wiktionary text is generally available under CC BY-SA 4.0 and GFDL. Verify the applicable license and attribution requirements for each dataset and any media before redistribution.",
+        "status": "candidate; not yet imported"
+      }
+    ],
+    "editorial_note": "Arabic meanings, approximate Arabic pronunciation, examples, and usage notes must be reviewed before a public learning release. Pronunciation written in Arabic is an aid, not a substitute for audio or IPA."
+  }
+}
