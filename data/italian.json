@@ -1,0 +1,131 @@
+{
+  "language": "italian",
+  "language_name_ar": "الإيطالية",
+  "level": "A1",
+  "entries": [
+    {
+      "id": "it-a1-001",
+      "word": "ciao",
+      "part_of_speech": "interjection",
+      "meaning_ar": "مرحباً؛ وداعاً",
+      "pronunciation_ar": "تشاو",
+      "example": "Ciao, Maria!",
+      "example_ar": "مرحباً يا ماريا!",
+      "usage_ar": "تُستخدم للتحية أو الوداع في المواقف غير الرسمية.",
+      "source": "LinguaPop editorial entry",
+      "license": "Original educational content"
+    },
+    {
+      "id": "it-a1-002",
+      "word": "buongiorno",
+      "part_of_speech": "interjection",
+      "meaning_ar": "صباح الخير؛ يوم سعيد",
+      "pronunciation_ar": "بْوون جورنو",
+      "example": "Buongiorno, signora.",
+      "example_ar": "صباح الخير يا سيدتي.",
+      "usage_ar": "تحية مهذبة تُستخدم غالباً في الصباح وخلال النهار.",
+      "source": "LinguaPop editorial entry",
+      "license": "Original educational content"
+    },
+    {
+      "id": "it-a1-003",
+      "word": "grazie",
+      "part_of_speech": "interjection",
+      "meaning_ar": "شكراً",
+      "pronunciation_ar": "غراتسيه",
+      "example": "Grazie mille!",
+      "example_ar": "شكراً جزيلاً!",
+      "usage_ar": "للتعبير عن الشكر.",
+      "source": "LinguaPop editorial entry",
+      "license": "Original educational content"
+    },
+    {
+      "id": "it-a1-004",
+      "word": "per favore",
+      "part_of_speech": "phrase",
+      "meaning_ar": "من فضلك",
+      "pronunciation_ar": "بير فافوري",
+      "example": "Un'acqua, per favore.",
+      "example_ar": "ماء، من فضلك.",
+      "usage_ar": "تُستخدم عند الطلب بأدب.",
+      "source": "LinguaPop editorial entry",
+      "license": "Original educational content"
+    },
+    {
+      "id": "it-a1-005",
+      "word": "sì",
+      "part_of_speech": "adverb",
+      "meaning_ar": "نعم",
+      "pronunciation_ar": "سي",
+      "example": "Sì, grazie.",
+      "example_ar": "نعم، شكراً.",
+      "usage_ar": "للموافقة أو الإجابة بالإيجاب.",
+      "source": "LinguaPop editorial entry",
+      "license": "Original educational content"
+    },
+    {
+      "id": "it-a1-006",
+      "word": "no",
+      "part_of_speech": "adverb",
+      "meaning_ar": "لا",
+      "pronunciation_ar": "نو",
+      "example": "No, grazie.",
+      "example_ar": "لا، شكراً.",
+      "usage_ar": "للرفض أو الإجابة بالنفي.",
+      "source": "LinguaPop editorial entry",
+      "license": "Original educational content"
+    },
+    {
+      "id": "it-a1-007",
+      "word": "acqua",
+      "part_of_speech": "noun",
+      "gender": "feminine",
+      "meaning_ar": "ماء",
+      "pronunciation_ar": "أكْكوا",
+      "example": "Vorrei dell'acqua.",
+      "example_ar": "أودّ بعض الماء.",
+      "usage_ar": "اسم مؤنث؛ أداة التعريف المفردة هي la.",
+      "source": "LinguaPop editorial entry",
+      "license": "Original educational content"
+    },
+    {
+      "id": "it-a1-008",
+      "word": "casa",
+      "part_of_speech": "noun",
+      "gender": "feminine",
+      "meaning_ar": "بيت؛ منزل",
+      "pronunciation_ar": "كازا",
+      "example": "La casa è grande.",
+      "example_ar": "البيت كبير.",
+      "usage_ar": "اسم مؤنث؛ الجمع case.",
+      "source": "LinguaPop editorial entry",
+      "license": "Original educational content"
+    },
+    {
+      "id": "it-a1-009",
+      "word": "amico",
+      "part_of_speech": "noun",
+      "gender": "masculine",
+      "meaning_ar": "صديق",
+      "pronunciation_ar": "أميكو",
+      "example": "Lui è un mio amico.",
+      "example_ar": "هو صديق لي.",
+      "usage_ar": "المؤنث amica، والجمع amici للمذكر أو المجموعة المختلطة.",
+      "source": "LinguaPop editorial entry",
+      "license": "Original educational content"
+    },
+    {
+      "id": "it-a1-010",
+      "word": "libro",
+      "part_of_speech": "noun",
+      "gender": "masculine",
+      "meaning_ar": "كتاب",
+      "pronunciation_ar": "ليبرو",
+      "example": "Questo è un libro.",
+      "example_ar": "هذا كتاب.",
+      "usage_ar": "اسم مذكر؛ الجمع libri.",
+      "source": "LinguaPop editorial entry",
+      "license": "Original educational content"
+    }
+  ]
+}
