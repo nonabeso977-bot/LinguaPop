@@ -1,0 +1,131 @@
+{
+  "language": "french",
+  "language_name_ar": "الفرنسية",
+  "level": "A1",
+  "entries": [
+    {
+      "id": "fr-a1-001",
+      "word": "bonjour",
+      "part_of_speech": "interjection",
+      "meaning_ar": "مرحباً؛ صباح الخير",
+      "pronunciation_ar": "بونجور",
+      "example": "Bonjour, Marie !",
+      "example_ar": "مرحباً يا ماري!",
+      "usage_ar": "تحية مهذبة تُستخدم خلال النهار.",
+      "source": "LinguaPop editorial entry",
+      "license": "Original educational content"
+    },
+    {
+      "id": "fr-a1-002",
+      "word": "salut",
+      "part_of_speech": "interjection",
+      "meaning_ar": "أهلاً؛ مرحباً؛ مع السلامة",
+      "pronunciation_ar": "سالو",
+      "example": "Salut, Paul !",
+      "example_ar": "أهلاً يا بول!",
+      "usage_ar": "تحية غير رسمية بين الأصدقاء، وقد تُستخدم للوداع أيضاً.",
+      "source": "LinguaPop editorial entry",
+      "license": "Original educational content"
+    },
+    {
+      "id": "fr-a1-003",
+      "word": "merci",
+      "part_of_speech": "interjection",
+      "meaning_ar": "شكراً",
+      "pronunciation_ar": "ميرسي",
+      "example": "Merci beaucoup.",
+      "example_ar": "شكراً جزيلاً.",
+      "usage_ar": "للتعبير عن الشكر.",
+      "source": "LinguaPop editorial entry",
+      "license": "Original educational content"
+    },
+    {
+      "id": "fr-a1-004",
+      "word": "s'il vous plaît",
+      "part_of_speech": "phrase",
+      "meaning_ar": "من فضلكم؛ من فضلك",
+      "pronunciation_ar": "سيل فو پليه",
+      "example": "Un café, s'il vous plaît.",
+      "example_ar": "قهوة، من فضلك.",
+      "usage_ar": "صيغة مهذبة للطلب، وتناسب مخاطبة شخص بصيغة الاحترام أو أكثر من شخص.",
+      "source": "LinguaPop editorial entry",
+      "license": "Original educational content"
+    },
+    {
+      "id": "fr-a1-005",
+      "word": "oui",
+      "part_of_speech": "adverb",
+      "meaning_ar": "نعم",
+      "pronunciation_ar": "وي",
+      "example": "Oui, merci.",
+      "example_ar": "نعم، شكراً.",
+      "usage_ar": "للموافقة أو الإجابة بالإيجاب.",
+      "source": "LinguaPop editorial entry",
+      "license": "Original educational content"
+    },
+    {
+      "id": "fr-a1-006",
+      "word": "non",
+      "part_of_speech": "adverb",
+      "meaning_ar": "لا",
+      "pronunciation_ar": "نون",
+      "example": "Non, merci.",
+      "example_ar": "لا، شكراً.",
+      "usage_ar": "للرفض أو الإجابة بالنفي.",
+      "source": "LinguaPop editorial entry",
+      "license": "Original educational content"
+    },
+    {
+      "id": "fr-a1-007",
+      "word": "eau",
+      "part_of_speech": "noun",
+      "gender": "feminine",
+      "meaning_ar": "ماء",
+      "pronunciation_ar": "أو",
+      "example": "Je voudrais de l'eau.",
+      "example_ar": "أودّ بعض الماء.",
+      "usage_ar": "اسم مؤنث، رغم أن نطقه يبدأ بصوت متحرك.",
+      "source": "LinguaPop editorial entry",
+      "license": "Original educational content"
+    },
+    {
+      "id": "fr-a1-008",
+      "word": "maison",
+      "part_of_speech": "noun",
+      "gender": "feminine",
+      "meaning_ar": "بيت؛ منزل",
+      "pronunciation_ar": "ميزون",
+      "example": "La maison est grande.",
+      "example_ar": "البيت كبير.",
+      "usage_ar": "اسم مؤنث.",
+      "source": "LinguaPop editorial entry",
+      "license": "Original educational content"
+    },
+    {
+      "id": "fr-a1-009",
+      "word": "ami",
+      "part_of_speech": "noun",
+      "gender": "masculine",
+      "meaning_ar": "صديق",
+      "pronunciation_ar": "أَمي",
+      "example": "C'est mon ami.",
+      "example_ar": "هذا صديقي.",
+      "usage_ar": "المؤنث amie، ويُنطقان بالطريقة نفسها غالباً.",
+      "source": "LinguaPop editorial entry",
+      "license": "Original educational content"
+    },
+    {
+      "id": "fr-a1-010",
+      "word": "livre",
+      "part_of_speech": "noun",
+      "gender": "masculine",
+      "meaning_ar": "كتاب",
+      "pronunciation_ar": "ليڤر",
+      "example": "C'est un livre.",
+      "example_ar": "هذا كتاب.",
+      "usage_ar": "اسم مذكر.",
+      "source": "LinguaPop editorial entry",
+      "license": "Original educational content"
+    }
+  ]
+}
